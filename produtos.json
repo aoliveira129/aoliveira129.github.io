@@ -1,0 +1,43 @@
+{
+    "Bebidas": [
+        {
+            "id": 1,
+            "nome": "Café",
+            "preco": 5.00,
+            "descricao": "Uma bebida quente e deliciosa.",
+            "imagem": "cafe.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Suco de Laranja",
+            "preco": 7.00,
+            "descricao": "Refrescante e natural.",
+            "imagem": "suco_laranja.jpg"
+        }
+    ],
+    "Comidas": [
+        {
+            "id": 3,
+            "nome": "Sanduíche",
+            "preco": 12.00,
+            "descricao": "Pão crocante com recheio saboroso.",
+            "imagem": "sanduiche.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Hambúrguer",
+            "preco": 15.00,
+            "descricao": "Pão, carne suculenta e molho especial.",
+            "imagem": "hamburguer.jpg"
+        }
+    ],
+    "Doces": [
+        {
+            "id": 5,
+            "nome": "Bolo de Chocolate",
+            "preco": 10.00,
+            "descricao": "Macio e recheado com chocolate.",
+            "imagem": "bolo.jpg"
+        }
+    ]
+}
