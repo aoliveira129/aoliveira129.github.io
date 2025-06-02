@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Margherita",
+        "description": "Molho de tomate, mussarela e manjericão.",
+        "price": "R$ 25,00",
+        "image": "pizza1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pizza Pepperoni",
+        "description": "Molho de tomate, mussarela e pepperoni.",
+        "price": "R$ 30,00",
+        "image": "pizza2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pizza Quatro Queijos",
+        "description": "Mussarela, provolone, parmesão e gorgonzola.",
+        "price": "R$ 35,00",
+        "image": "pizza3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pizza Calabresa",
+        "description": "Molho de tomate, mussarela e calabresa.",
+        "price": "R$ 28,00",
+        "image": "pizza4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pizza Portuguesa",
+        "description": "Molho de tomate, mussarela, presunto, ovo e cebola.",
+        "price": "R$ 32,00",
+        "image": "pizza5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pizza Frango com Catupiry",
+        "description": "Molho de tomate, mussarela, frango e catupiry.",
+        "price": "R$ 33,00",
+        "image": "pizza6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Pizza Vegetariana",
+        "description": "Molho de tomate, mussarela, pimentão, cebola, azeitona e tomate.",
+        "price": "R$ 27,00",
+        "image": "pizza7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Pizza Bacon",
+        "description": "Molho de tomate, mussarela e bacon.",
+        "price": "R$ 29,00",
+        "image": "pizza8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Pizza Mexicana",
+        "description": "Molho de tomate, mussarela, carne moída, pimenta jalapeño e cebola.",
+        "price": "R$ 34,00",
+        "image": "pizza9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Pizza Napolitana",
+        "description": "Molho de tomate, mussarela, tomate e manjericão.",
+        "price": "R$ 26,00",
+        "image": "pizza10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Pizza Romana",
+        "description": "Molho de tomate, mussarela, presunto e azeitona.",
+        "price": "R$ 31,00",
+        "image": "pizza11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Pizza Alho e Óleo",
+        "description": "Molho de tomate, mussarela, alho e óleo.",
+        "price": "R$ 24,00",
+        "image": "pizza12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Pizza Marguerita Especial",
+        "description": "Molho de tomate, mussarela, tomate seco e manjericão.",
+        "price": "R$ 36,00",
+        "image": "pizza13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Pizza de Chocolate",
+        "description": "Chocolate ao leite e chocolate branco.",
+        "price": "R$ 38,00",
+        "image": "pizza14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Pizza de Banana",
+        "description": "Banana, açúcar e canela.",
+        "price": "R$ 29,00",
+        "image": "pizza15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Pizza de Banana com Atum",
+        "description": "Banana, açúcar e canela e atum.",
+        "price": "R$ 89,90",
+        "image": "pizza16.jpg" 
+    }
+]
